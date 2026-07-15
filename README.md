@@ -82,13 +82,13 @@ world-population-scraper/
 
 ### Website
 
-![Data We Are Scrapping](docs\Website.png)
+![Data We Are Scrapping](docs/Website.png)
 
 ---
 
 ### CSV Output
 
-![Collected Data](docs\data.png)
+![Collected Data](docs/data.png)
 
 
 ## License
